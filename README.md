@@ -13,3 +13,6 @@ DataWorkshop 5-days data analytics project
 
 **Day 3 (2020-02-12)**
 - Read [Men's Shoe Prices dataset from data.world](https://data.world/datafiniti/mens-shoe-prices)
+
+**Day 4 (2020-02-13)**
+- Decision Tree Regressor for [Men's Shoe Prices dataset from data.world](https://data.world/datafiniti/mens-shoe-prices)
