@@ -3,8 +3,6 @@ DataWorkshop 5-days data analytics project
 
 [More info (in Polish)](https://dataworkshop.eu/matrix)
 
-**PART 1**
-
 **Day 1 (2020-02-10)**
 - create this repository
 
